@@ -29,6 +29,8 @@
 
 ## Data Visualization
 ![Table](https://github.com/Ola-ykay/Amazon-Ecommerce-Sales/blob/main/Amazon-table.png)
+![Analysis](https://github.com/Ola-ykay/Amazon-Ecommerce-Sales/blob/main/Amazon-analysis.png)
+![Dashboard]()
 
  
 
