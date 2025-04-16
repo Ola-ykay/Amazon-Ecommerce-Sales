@@ -26,11 +26,14 @@
  - Total Product Category: The total number of distinct product categories (e.g., Electronics, Fashion, Home, etc.).
 
 ## Insights
+- Top performing products by rating: Identify products that have the highest average customer ratings.
+- Comparison of actual and discounted prices: shows the relationship between product pricing (actual and discounted)
+- Product category with highest reviews:shows the product categories perform best in terms of average ratings and volume of reviews.
 
 ## Data Visualization
 ![Table](https://github.com/Ola-ykay/Amazon-Ecommerce-Sales/blob/main/Amazon-table.png)
 ![Analysis](https://github.com/Ola-ykay/Amazon-Ecommerce-Sales/blob/main/Amazon-analysis.png)
-![Dashboard]()
+![Dashboard](https://github.com/Ola-ykay/Amazon-Ecommerce-Sales/blob/main/amazon-dashboard.png)
 
  
 
