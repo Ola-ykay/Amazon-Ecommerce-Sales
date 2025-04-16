@@ -7,7 +7,6 @@
 - [Tools Used](#tools-used) 
 - [KPIs](#kpis)  
 - [Insights](#insights)
-- [Questions Explored](#questions-explored)
 - [Data Visualization](#data-visualization)
 
  ## Project Overview
@@ -26,13 +25,11 @@
  - Total Products: The total number of unique productslisted in the dataset.
  - Total Product Category: The total number of distinct product categories (e.g., Electronics, Fashion, Home, etc.).
 
-   
- 
+## Insights
 
-1. **Top Rated Products**- Products with the highest average ratings (4.5 and above)
-2. **Best Discount Deals**- Products with the highest discount percentages
-3. **Category with Most Reviews**- Product category with the highest total rating count
-4. **Most Popular Products**- Based on the number of **unique users** who reviewed each product
-5. **Average Discounted Price**- Mean of all discounted prices across the dataset
+## Data Visualization
+![Table](https://github.com/Ola-ykay/Amazon-Ecommerce-Sales/blob/main/Amazon-table.png)
+
+ 
 
    
